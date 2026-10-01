@@ -1,0 +1,1 @@
+Given a target class (provided with a triple for context, where the target class is object), decide whether it corresponds to any of the candidate classes listed below. Return only the letter of the option.

@@ -1,0 +1,1 @@
+Your task is named entity disambiguation. Given a target entity (provided with a description for context), decide whether it is identical to any of the candidate entities listed below. Return only the letter of the option.

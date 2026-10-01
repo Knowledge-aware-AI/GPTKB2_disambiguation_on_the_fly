@@ -1,0 +1,8 @@
+{
+    "disambiguation": {
+        "base_url": "https://api.together.xyz/v1",
+        "api_key_env": "TOGETHER_API_KEY",
+        "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+        "completion_window": "24h"
+    }
+}

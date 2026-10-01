@@ -1,0 +1,1 @@
+Given a target predicate (provided with a triple for context), decide whether it corresponds to any of the candidate predicates listed below. Return only the letter of the option.

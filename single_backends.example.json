@@ -1,0 +1,17 @@
+{
+    "elicitation": {
+        "base_url": "https://llm.example.com/v1",
+        "api_key_env": "LLM_API_KEY",
+        "model": "your-org/your-model"
+    },
+    "disambiguation": {
+        "base_url": "https://llm.example.com/v1",
+        "api_key_env": "LLM_API_KEY",
+        "model": "your-org/your-model"
+    },
+    "description": {
+        "base_url": "https://llm.example.com/v1",
+        "api_key_env": "LLM_API_KEY",
+        "model": "your-org/your-model"
+    }
+}

@@ -1,0 +1,9 @@
+cat <<EOL > .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+*.egg-info/
+EOL
